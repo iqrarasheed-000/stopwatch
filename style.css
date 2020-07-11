@@ -1,0 +1,43 @@
+
+body {
+    background-image: url("https://i.pinimg.com/originals/66/e4/ee/66e4eea36fd3d5e3d4c8d4cc42d5da2b.jpg");
+    background-repeat: round;
+}
+
+h1 {
+    color: slateblue;
+    background-color: honeydew;
+    text-align: center ;
+    margin-left: 15%;
+    margin-right:15%;
+    font-size: 40px;
+    text-shadow: 2px 2px 2px black;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 30%;
+    border-style: groove black;
+}
+
+h2 {
+    color: slateblue;
+    background-color: honeydew;
+    display: inline-block;
+    width:20%;
+    font-size: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+    border-radius: 5%;
+    border-style: 2px solid black;
+    margin-bottom:20px;
+}
+.top {
+    color: slateblue;
+    background-color: honeydew;
+    margin-top: 40px;
+    margin-left: 35%;
+    width:30%;
+    font-size: 40px;
+    text-align: center;
+    border-radius: 80%;
+    text-shadow: 5px 5px 5px lightcyan;
+}
